@@ -1,0 +1,2 @@
+Hostname Switch : SW2, Name : GigabitEthernet0/1
+Hostname Switch : SW3, Name : FastEthernet0/3
